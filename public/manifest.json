@@ -1,0 +1,12 @@
+{
+  "name": "Siddharth Jagadale | Portfolio",
+  "short_name": "Siddharth Jagadale",
+  "description": "Python, FastAPI & Machine Learning developer portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
